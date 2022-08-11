@@ -1,2 +1,2 @@
 # function_and_recursion
-funkiya doir misollar ishlanishi 
+funkiyaga doir misollar ishlanishi 
